@@ -39,6 +39,7 @@ namespace CustomerApi.Controllers
         {
             new Product { Id = 1, Name = "Product 1", Price = 10.99m },
             new Product { Id = 2, Name = "Product 2", Price = 20.99m },
+            new Product { Id = 3, Name = "Product 3", Price = 100.90m },
             // Add products based on customer's history
         };
 
